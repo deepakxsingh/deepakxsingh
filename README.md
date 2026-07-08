@@ -8,15 +8,15 @@
 
 ## Projects
 
-- [SpendWise](https://github.com/deepaksingh/Spend_Wise) || Portfolio (coming soon)
+- [SpendWise](https://github.com/deepakxsingh/Spend_Wise) || Portfolio (coming soon)
 
 ## Notes & Practice 
--  [DSA](https://github.com/deepaksingh/NodeJs)
 -  [NodeJs](https://github.com/deepaksingh/NodeJs)
--  [JavaScript](https://github.com/deepaksingh/NodeJs) 
+-  [JavaScript](https://github.com/deepakxsingh/NodeJs)
+-  [DSA](https://github.com/deepakxsingh/NodeJs)
 
 
 ## Links
 
-- [LinkedIn](https://linkedin.com/in/iamdeepaksingh) 
-- [X](https://x.com/in/iamdeepaksingh)
+- [LinkedIn](https://linkedin.com/in/deepaksingh) 
+- [x.com](https://x.com/iamdeepak_01)
