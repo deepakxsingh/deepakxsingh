@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**deepakxsingh/deepakxsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Deepak Singh
 
-Here are some ideas to get you started:
+- C++ | JavaScript | Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently exploring- Node.js, backend development,
+ and Data Structures & Algorithms.
+
+## Projects
+
+- [SpendWise](https://github.com/deepaksingh/Spend_Wise) || Portfolio (coming soon)
+
+## Notes & Practice 
+-  [DSA](https://github.com/deepaksingh/NodeJs)
+-  [NodeJs](https://github.com/deepaksingh/NodeJs)
+-  [JavaScript](https://github.com/deepaksingh/NodeJs) 
+
+
+## Links
+
+- [LinkedIn](https://linkedin.com/in/iamdeepaksingh) 
+- [X](https://x.com/in/iamdeepaksingh)
