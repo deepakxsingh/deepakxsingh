@@ -11,7 +11,7 @@
 - [SpendWise](https://github.com/deepakxsingh/Spend_Wise) || Portfolio (coming soon)
 
 ## Notes & Practice 
--  [NodeJs](https://github.com/deepaksingh/NodeJs)
+-  [NodeJs](https://github.com/deepakxsingh/NodeJs)
 -  [JavaScript](https://github.com/deepakxsingh/NodeJs)
 -  [DSA](https://github.com/deepakxsingh/NodeJs)
 
