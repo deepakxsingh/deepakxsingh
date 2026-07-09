@@ -16,7 +16,8 @@
 -  [DSA](https://github.com/deepakxsingh/NodeJs)
 
 
-## Links
-
-- [LinkedIn](https://linkedin.com/in/deepaksingh) 
-- [x.com](https://x.com/iamdeepak_01)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/iamdeepak_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamdeepak_01" height="25" width="35" /></a>                    
+<a href="https://linkedin.com/in/deepakxsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepakxsingh" height="25" width="35" /></a>
+</p>
