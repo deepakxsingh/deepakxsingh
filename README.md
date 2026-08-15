@@ -37,7 +37,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h3 align="center">Thank you for visiting my profile!</h3>
 <p align="center">I appreciate your support and feedback!</p>
 
- &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &ensp;  &emsp; &emsp; &emsp;  &emsp;   &emsp; &emsp;
+ &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp;  &emsp; &emsp; &emsp;  &emsp;   &emsp; &emsp;
  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/deepakxsingh) &emsp;
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepakxsingh) &emsp;
  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iamdeepak_01) &emsp;
