@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * You can contact me at [deepakxsingh91@gmail.com](mailto:deepakxsingh91@gmail.com)<br>
 
 ## &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Tech Stacks
- &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+ &emsp; ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -37,7 +37,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h3 align="center">Thank you for visiting my profile!</h3>
 <p align="center">I appreciate your support and feedback!</p>
 
- &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &ensp;  &emsp; &emsp; &emsp;  &emsp;   &emsp; &emsp;
+ &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &ensp;  &emsp; &emsp; &emsp;  &emsp;   &emsp; &emsp;
  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/deepakxsingh) &emsp;
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepakxsingh) &emsp;
  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iamdeepak_01) &emsp;
