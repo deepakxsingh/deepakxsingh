@@ -22,7 +22,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br>
 
 
-  &emsp; &emsp; &emsp; &emsp; ![](https://streak-stats.demolab.com/?user=deepakxsingh&theme=transparent&hide_border=false)  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=deepakxsingh&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+  &emsp; &emsp; &emsp; &emsp; ![](https://streak-stats.demolab.com/?user=deepakxsingh&theme=transparent&hide_border=false)   &emsp;  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=deepakxsingh&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <br>
 <p align="center">
